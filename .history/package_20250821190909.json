@@ -1,0 +1,21 @@
+{
+  "name": "coderpixel-theme",
+  "displayName": "coderPixel",
+  "description": "A modern dark theme for developers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "coderPixel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/coderPixel-color-theme.json"
+      }
+    ]
+  }
+}

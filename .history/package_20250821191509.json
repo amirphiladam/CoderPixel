@@ -1,0 +1,26 @@
+{
+  "name": "coderpixel",
+  "displayName": "CoderPixel",
+  "description": "A modern dark theme for developers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/amirdev/amirdev-theme.git"
+}
+,
+  "contributes": {
+    "themes": [
+      {
+        "label": "coderPixel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/coder-pixel-theme.json"
+      }
+    ]
+  }
+}
