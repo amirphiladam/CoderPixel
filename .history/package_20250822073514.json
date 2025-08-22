@@ -1,9 +1,8 @@
 {
   "name": "coderpixel",
   "displayName": "CoderPixel",
-  "icon": "images/icon.png",
   "description": "A modern dark theme for developers",
-  "publisher": "AmirPhilipAdam",
+  "publisher": "Amir Philip Adam",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
