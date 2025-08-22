@@ -4,7 +4,7 @@
   "icon": "images/icon.png",
   "description": "A modern dark theme for developers",
   "publisher": "AmirPhilipAdam",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -12,10 +12,9 @@
     "Themes"
   ],
   "repository": {
-  "type": "git",
-  "url": "https://github.com/amirphiladam2/CoderPixel.git"
-}
-,
+    "type": "git",
+    "url": "https://github.com/amirphiladam2/CoderPixel.git"
+  },
   "contributes": {
     "themes": [
       {
