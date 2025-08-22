@@ -1,10 +1,10 @@
 {
-  "name": "codepixelmodern",
-  "displayName": "CodePixel Modern Dark",
+  "name": "coderpixel",
+  "displayName": "CoderPixel",
   "icon": "images/icon.png",
   "description": "A modern dark theme for developers",
   "publisher": "AmirPhilipAdam",
-  "version": "0.0.3",
+  "version": "1.0.",
   "engines": {
     "vscode": "^1.74.0"
   },
